@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LibrePCB</title>
-    <link>http://localhost:1313/</link>
+    <link>http://librepcb.org/</link>
     <description>Recent content on LibrePCB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Sep 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://librepcb.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What is LibrePCB?</title>
-      <link>http://localhost:1313/post/about/</link>
+      <link>http://librepcb.org/post/about/</link>
       <pubDate>Sun, 13 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/about/</guid>
+      <guid>http://librepcb.org/post/about/</guid>
       <description>
 
 &lt;p&gt;LibrePCB is a free EDA software to develop printed circuit boards.&lt;/p&gt;
@@ -32,44 +32,44 @@
     
     <item>
       <title>Control Panel</title>
-      <link>http://localhost:1313/post/controlpanel/</link>
+      <link>http://librepcb.org/post/controlpanel/</link>
       <pubDate>Sun, 13 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/controlpanel/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/controlpanel_preview.png&#34; alt=&#34;Control Panel&#34; /&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Board Editor</title>
-      <link>http://localhost:1313/post/board_editor/</link>
-      <pubDate>Sun, 13 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/board_editor/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/boardeditor_preview.png&#34; alt=&#34;Control Panel&#34; /&gt;
+      <guid>http://librepcb.org/post/controlpanel/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://librepcb.org/img/controlpanel_preview.png&#34; alt=&#34;Control Panel&#34; /&gt;
 &lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Schematic Editor</title>
-      <link>http://localhost:1313/post/schematic_editor/</link>
+      <link>http://librepcb.org/post/schematic_editor/</link>
       <pubDate>Sun, 13 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/schematic_editor/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/schematiceditor_preview.png&#34; alt=&#34;Schematic Editor&#34; /&gt;
+      <guid>http://librepcb.org/post/schematic_editor/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://librepcb.org/img/schematiceditor_preview.png&#34; alt=&#34;Schematic Editor&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Board Editor</title>
+      <link>http://librepcb.org/post/board_editor/</link>
+      <pubDate>Sun, 13 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://librepcb.org/post/board_editor/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://librepcb.org/img/boardeditor_preview.png&#34; alt=&#34;Control Panel&#34; /&gt;
 &lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Library</title>
-      <link>http://localhost:1313/post/library/</link>
+      <link>http://librepcb.org/post/library/</link>
       <pubDate>Sun, 13 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/library/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/librarybrowser_preview.png&#34; alt=&#34;Library Browser&#34; /&gt;
+      <guid>http://librepcb.org/post/library/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://librepcb.org/img/librarybrowser_preview.png&#34; alt=&#34;Library Browser&#34; /&gt;
 &lt;/p&gt;
 </description>
     </item>
